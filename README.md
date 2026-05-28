@@ -100,7 +100,7 @@ shortcuts, polished to the pixel.
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Vinayak0090&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub streak" />
+<img src="assets/streak.svg" width="495" alt="GitHub streak: 104 total contributions, current streak 1, longest streak 8 (private contributions included)" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak0090&theme=tokyo-night&hide_border=true&hide_title=false&area=true&color=06B6D4&line=06B6D4&point=ffffff&bg_color=0D1117" width="100%" alt="Contribution graph" />
 
