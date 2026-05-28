@@ -104,6 +104,12 @@ shortcuts, polished to the pixel.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak0090&theme=tokyo-night&hide_border=true&hide_title=false&area=true&color=06B6D4&line=06B6D4&point=ffffff&bg_color=0D1117" width="100%" alt="Contribution graph" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake-dark.svg" width="100%" alt="My contribution graph eaten by a snake" />
+</picture>
+
 </div>
 
 ---
