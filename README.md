@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vinayak%20Gandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Founder%20%C2%B7%20Flickerlink%20Technologies&descSize=18&descAlignY=58" width="100%" alt="Vinayak Gandhi" />
+<img src="assets/header.svg" width="100%" alt="Vinayak Gandhi — Founder & Engineer at Flickerlink Technologies" />
 
 <a href="https://github.com/Vinayak0090">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Founder+%26+Engineer+%40+Flickerlink+Technologies;Building+Clouduxe+%E2%80%94+cloud+infra+%2B+DDoS+protection;NVMe+VPS+%C2%B7+Bare+Metal+%C2%B7+Global+Edge+Network;Quiet+infrastructure+for+an+intelligent+age." alt="Typing animation" />
@@ -118,6 +118,6 @@ shortcuts, polished to the pixel.
 
 <sub><i>Built quietly. Supported obsessively.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="Built quietly. Supported obsessively." />
 
 </div>
