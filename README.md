@@ -102,12 +102,6 @@ shortcuts, polished to the pixel.
 
 <img src="assets/metrics.svg" width="100%" alt="Contribution calendar (private contributions included) and most-used languages" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake-dark.svg" width="100%" alt="My contribution graph eaten by a snake" />
-</picture>
-
 </div>
 
 ---
