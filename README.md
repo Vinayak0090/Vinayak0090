@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Vinayak Gandhi — Founder & Engineer at Flickerlink Technologies" />
+<img src="assets/header.svg" width="100%" alt="Vinayak Gandhi, Founder & Engineer at Flickerlink Technologies" />
 
 <a href="https://github.com/Vinayak0090">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Founder+%26+Engineer+%40+Flickerlink+Technologies;Building+Clouduxe+%E2%80%94+cloud+infra+%2B+DDoS+protection;NVMe+VPS+%C2%B7+Bare+Metal+%C2%B7+Global+Edge+Network;Quiet+infrastructure+for+an+intelligent+age." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Founder+%26+Engineer+%40+Flickerlink+Technologies;Building+Clouduxe+%C2%B7+cloud+infra+%2B+DDoS+protection;NVMe+VPS+%C2%B7+Bare+Metal+%C2%B7+Global+Edge+Network;Quiet+infrastructure+for+an+intelligent+age." alt="Typing animation" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ const vinayak = {
 } as const;
 ```
 
-I run **[Flickerlink Technologies](https://flickerlink.com)** — a founder-led studio building
+I run **[Flickerlink Technologies](https://flickerlink.com)**, a founder-led studio building
 quiet infrastructure for an intelligent age. Most of my work lives close to the metal:
 KVM hypervisors, edge routing, packet-level filtering, and the control planes that make
 all of it feel like one button.
@@ -48,21 +48,21 @@ all of it feel like one button.
 <td width="33%" valign="top">
 
 #### ☁️ [Clouduxe](https://clouduxe.com)
-High-performance cloud infrastructure — **NVMe KVM VPS**, **bare-metal dedicated servers**,
+High-performance cloud infrastructure: **NVMe KVM VPS**, **bare-metal dedicated servers**,
 and managed hosting with **global DDoS protection** on a multi-Tbps edge network.
 
 </td>
 <td width="33%" valign="top">
 
 #### 🛡️ Fiveuxe
-Anticheat & protection for **FiveM** game servers — behavioral detection and
+Anticheat & protection for **FiveM** game servers: behavioral detection and
 packet-level shielding that sits above volumetric scrubbing.
 
 </td>
 <td width="33%" valign="top">
 
 #### 📱 Native iOS
-A small studio of **native SwiftUI apps** — built for the platform, no cross-platform
+A small studio of **native SwiftUI apps**, built for the platform, no cross-platform
 shortcuts, polished to the pixel.
 
 </td>
@@ -100,9 +100,7 @@ shortcuts, polished to the pixel.
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Vinayak0090&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak0090&theme=tokyo-night&hide_border=true&hide_title=false&area=true&color=06B6D4&line=06B6D4&point=ffffff&bg_color=0D1117" width="100%" alt="Contribution graph" />
+<img src="assets/metrics.svg" width="100%" alt="Contribution calendar (private contributions included) and most-used languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinayak0090/Vinayak0090/output/snake-dark.svg" />
