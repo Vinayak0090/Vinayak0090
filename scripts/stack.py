@@ -5,7 +5,7 @@ GROUPS = [
     ("Languages", ["TypeScript", "Go", "Rust", "C", "Python", "Swift"]),
     ("Kernel and network", ["eBPF", "XDP", "Linux", "KVM"]),
     ("Data", ["PostgreSQL", "ClickHouse", "Redis", "NATS"]),
-    ("Web and edge", ["Next.js", "React", "Bun", "Cloudflare"]),
+    ("Web and edge", ["Astro", "Next.js", "React", "Bun", "Cloudflare"]),
 ]
 NOTES = {
     "Languages": "Most days it is TypeScript, Go and Rust",

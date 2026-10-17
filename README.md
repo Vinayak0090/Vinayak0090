@@ -38,7 +38,7 @@ and make native iOS apps on the side.
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/dark/h-stack.m.svg"><source media="(max-width: 640px)" srcset="assets/light/h-stack.m.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/dark/h-stack.svg"><img src="assets/light/h-stack.svg" width="100%" alt="Stack: What my work is made of"></picture>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/dark/stack.m.svg"><source media="(max-width: 640px)" srcset="assets/light/stack.m.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="Stack: TypeScript, Go, Rust, C, Python, Swift, eBPF, XDP, Linux, KVM, PostgreSQL, ClickHouse, Redis, NATS, Next.js, React, Bun, Cloudflare"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/dark/stack.m.svg"><source media="(max-width: 640px)" srcset="assets/light/stack.m.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="Stack: TypeScript, Go, Rust, C, Python, Swift, eBPF, XDP, Linux, KVM, PostgreSQL, ClickHouse, Redis, NATS, Astro, Next.js, React, Bun, Cloudflare"></picture>
 
 <br><br>
 
