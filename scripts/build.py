@@ -115,7 +115,6 @@ def fetch(token):
     v = gql(token, """{ viewer {
         createdAt
         contributionsCollection {
-          restrictedContributionsCount
           contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } }
         }
         repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
@@ -150,7 +149,6 @@ def fetch(token):
     return {
         "today": today,
         "year_total": cal["totalContributions"],
-        "year_private": v["contributionsCollection"]["restrictedContributionsCount"],
         "weeks": weeks,
         "days": days,
         "repo_count": v["repositories"]["totalCount"],
@@ -575,7 +573,7 @@ def stats(t, d):
         return f"{x.day} {x:%b %Y}"
 
     metrics = [
-        (f"{d['year_total']:,}", "contributions", f"last 12 months · {d['year_private']:,} private"),
+        (f"{d['year_total']:,}", "contributions", "last 12 months · private included"),
         (f"{current}", "current streak", "days in a row" if current != 1 else "day"),
         (f"{longest}", "longest streak", f"{fdate(ls)} to {fdate(le)}" if ls else "no streak yet"),
         (f"{all_time:,}", "all time", f"since {d['days'] and min(k for k in d['days'] if d['days'][k] > 0)[:4]}"),
@@ -662,7 +660,7 @@ def stats(t, d):
 
     body.append(txt(W - pad, H - 28, f"updated {d['today'].day} {d['today']:%b %Y} · private contributions included",
                     "mono-400", 12, t["dim"], anchor="end"))
-    label = (f"{d['year_total']:,} contributions in the last 12 months ({d['year_private']:,} private), "
+    label = (f"{d['year_total']:,} contributions in the last 12 months, private included, "
              f"current streak {current} days, longest streak {longest} days")
     return svg(W, H, "".join(body), fonts, label)
 
